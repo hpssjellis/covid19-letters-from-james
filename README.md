@@ -1,2 +1,159 @@
 # covid19-letters-from-james
 Letters from my brother James about the covid 19 virus 
+
+
+
+
+
+
+
+Recently my extended family received an email from my brother James, a genetics researcher at Toronto SickKids Hospital.
+
+https://lab.research.sickkids.ca/ellis/
+
+I so appreciated the emails that I asked him if it would be OK to publish them on social media as others might want to hear what he has to say. He Said that would be fine.
+
+
+
+
+
+Mar 17, 2020
+
+Hi All: It seems many people have a misimpression about virus spread – if you want advice from me (having worked with virus since age 21) lets talk. Section from a globe article below on students and elderly made me think of ... my son ... and his grandparents. By the way, Toronto Hospitals and the university are all shutting down their research labs for the next few weeks to focus on clinical issues. 
+
+ 
+
+The pandemic has provided a new outlet for generational tensions, which can go in many directions. While university students disobeyed public-health officials and their parents to partake in St. Patrick’s Day festivities in Kingston, Ont., on the weekend, for example, defiance has flowed the other way, too.
+
+The older set, predominantly baby boomers, who are healthier and more active than their parents were at the same age, can take offence to what they see as infantilization from their children; but members of generations X, Y and Z worry that mantras such as “70 is the new 50” have given their parents a false sense of security.
+
+The fatality risk for COVID-19 is often reported as 2 per cent, but that’s for the overall population, pointed out Samir Sinha, the director of geriatrics at Toronto’s Sinai Health System and the University Health Network. "As soon as you start getting in your 60th, your 70th and your 80th-plus [year], we start seeing those death rates go into the 3-, 8- and 15-per-cent range,” he said.
+
+ 
+
+Mar 18th, 2020
+
+And just 2 in the afternoon release from Ontario so a total of 24 today here. Ontario seems relatively stable for a week now.  Hard to tell with BC because that 83 spike might have been delayed tests over the weekend, but its still bigger numbers than we are seeing.  
+
+
+I’m optimistic for Canada still, but the US is going to accelerate so closing that border makes more sense for us than for them. A few stats for a comparative perspective from 2019 for Canada that everyone accepts as routine life:
+
+ 
+
+258,000 people die every year in Canada.
+
+Traffic fatalities = 3000, Traffic serious injuries= 16,000
+
+Flu deaths = 3500, Flu hospitalizations= 12,000
+
+Opioid overdoses = 14,000 deaths (over last 4 years).
+
+The coronaviruses HCoV-229E, -NL63, -OC43, and -HKU1 continually circulate in the human population and cause the common cold in adults and children world-wide.
+
+This means that coronavirus transfers from animals to humans have occurred previously and we accept them as part of normal life.
+
+ 
+
+COVID 19 – 620 cases, 8 deaths (all seniors) as of this morning. Children seemingly unaffected. 
+
+ 
+
+New cases in Ontario are relatively stable over the past week.
+
+March 12 = 18
+
+March 13 = 19
+
+March 14 = 24
+
+March 15 = 42
+
+March 16 = 32
+
+March 17 = 13
+
+March 18 = 22 so far today pending afternoon update.  Have to see if the trend goes up or down.
+
+In BC there seems to have been a spike upwards yesterday.
+
+ 
+
+
+You probably never noticed, but you already lived through the 2009 H1N1 flu pandemic and survived. 60 million cases, 275,000 hospitalizations and 12,500 deaths in the US alone. 
+
+Below is copied from https://www.cdc.gov/flu/pandemic-resources/2009-h1n1-pandemic.html
+
+2009 H1N1 Pandemic (H1N1pdm09 virus) | Pandemic Influenza (Flu) | CDC
+The (H1N1)pdm09 virus was very different from H1N1 viruses that were circulating at the time of the pandemic. Few young people had any existing immunity (as detected by antibody response) to the (H1N1)pdm09 virus, but nearly one-third of people over 60 years old had antibodies against this virus, likely from exposure to an older H1N1 virus earlier in their lives.
+www.cdc.gov
+
+
+"In the spring of 2009, a novel influenza A (H1N1) virus emerged. It was detected first in the United States and spread quickly across the United States and the world....
+
+From April 12, 2009 to April 10, 2010, CDC estimated there were 60.8 million cases (range: 43.3-89.3 million), 274,304 hospitalizations (range: 195,086-402,719), and 12,469 deaths (range: 8868-18,306) in the United States due to the (H1N1)pdm09 virus...
+
+Additionally, CDC estimated that 151,700-575,400 people worldwide died from (H1N1)pdm09 virus infection during the first year the virus circulated..."
+
+
+
+Mar 22
+
+Hi everyone;
+This is a long message with some updates and then my opinion for what its worth. It might be easier to read on a computer than a phone...  I will try to phone you all today. 
+
+ 
+
+There are now about 600 Covid preprints on BioRXiv, and as reported this week viral proteins have been made in labs that can be used to detect antibodies produced by recovered patients.
+
+https://www.sciencemag.org/news/2020/03/new-blood-tests-antibodies-could-show-true-scale-coronavirus-pandemic
+
+https://connect.biorxiv.org/relate/content/181
+
+ 
+
+The current Covid tests ask are patients actively making the virus (by detecting the virus RNA in nasal swabs) but cannot tell if someone was previously infected and no longer making virus (no virus RNA). The ability to test for antibodies is exciting for two reasons. 
+
+ 
+
+1) people recovered by making antibodies against the virus, so an antibody test can identify everyone who is now protected even after having mild or no symptoms. And it can be used to test if vaccines are effective at inducing antibody production too (more on vaccines later).
+
+ 
+
+2) There is a history of “passive immunity” treatments of viral infections, especially when there are significant numbers of recovered individuals and not enough time to make vaccines. The idea is one takes recovered donor blood, spins out the cells to isolate plasma which contains the antibodies. These antibodies can then be administered to hospitalized individuals to help them recover. If it works, that person will not have long term immunity because the transferred antibodies don’t last long. There are now significant numbers of recovered individuals (in China at least) who could become blood donors and are essentially factories producing the antibodies. Plasma can be quickly isolated by the Red Cross equivalent in every country that has enough recovered individuals. There are ways to engineer antibodies in the lab too but it takes longer.
+
+https://en.wikipedia.org/wiki/Passive_immunity
+
+https://www.dw.com/en/coronavirus-drugs-can-antibodies-from-survivors-help/a-52806428
+
+ 
+
+So what about vaccines? I was surprised to see that with the most difficult strains of Flu, those vaccines might only be effective for 30% of the population and last only 90 days or so. In other words, don’t get your flu vaccines too early in the fall, and some people recommend getting a second one in mid winter. Covid vaccines will take longer to develop because they need to be safety tested and produced in bulk, and might not be very effective.
+
+ 
+
+In previous epidemics, by the time a vaccine was developed, so many people had already been infected that herd immunity emerged and the virus stopped spreading. That was the situation with Zika, when a vaccine was ready, it was no longer needed.
+
+https://en.wikipedia.org/wiki/Herd_immunity
+
+https://www.theguardian.com/world/2020/mar/21/coronavirus-vaccine-scientist-what-needs-to-be-done-now-hanneke-schuitemaker
+
+ 
+
+ 
+
+Which brings us to herd immunity. The UK was considering just letting time take its course infecting the population and have the 99% of people recover, with enough making antibodies to protect themselves so that the virus has too few susceptible people to spread further. The problem of course is hospital capacity while the outbreak is at its peak.
+
+ 
+
+Italy now has 54,000 cases in a population of 60 million or 0.1%. The canadian numbers doubled over the last week (600 to 1300). So if we assume a doubling time of one week, Italy goes from 0.1% to 3.2% in 5 weeks (if containment not effective). At that point (end of April), they have to decide if all the social distancing impact on the economy is still worth it, or should they just let Covid spread and allow healthy young-to-middle-age people to work. I have not seen any estimates of what population % is the threshold to make this decision, but that is crucially important. Presumably the British have some figure in mind, although they did belatedly go the social distancing route.
+
+ 
+
+Canada is relatively less infected than most countries, but I still think that by Victoria Day (end of May) the decision between the economic well-being of the 99% and the 1% most susceptible population will have to be tackled. In the meantime, scale up the supply of ventilators and intensive care facilities/personnel, and assess whether passive immunity is an effective treatment that can be rapidly deployed internationally.
+
+ 
+
+ 
+
+
+
