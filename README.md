@@ -17,7 +17,7 @@ I so appreciated the emails that I asked him if it would be OK to publish them o
 
 
 
-Mar 17, 2020
+# March 17, 2020
 
 Hi All: It seems many people have a misimpression about virus spread – if you want advice from me (having worked with virus since age 21) lets talk. Section from a globe article below on students and elderly made me think of ... my son ... and his grandparents. By the way, Toronto Hospitals and the university are all shutting down their research labs for the next few weeks to focus on clinical issues. 
 
@@ -31,9 +31,9 @@ The fatality risk for COVID-19 is often reported as 2 per cent, but that’s for
 
  
 
-Mar 18th, 2020
+# March 18th, 2020
 
-And just 2 in the afternoon release from Ontario so a total of 24 today here. Ontario seems relatively stable for a week now.  Hard to tell with BC because that 83 spike might have been delayed tests over the weekend, but its still bigger numbers than we are seeing.  
+
 
 
 I’m optimistic for Canada still, but the US is going to accelerate so closing that border makes more sense for us than for them. A few stats for a comparative perspective from 2019 for Canada that everyone accepts as routine life:
@@ -76,7 +76,10 @@ March 18 = 22 so far today pending afternoon update.  Have to see if the trend g
 
 In BC there seems to have been a spike upwards yesterday.
 
- 
+And just 2 in the afternoon release from Ontario so a total of 24 today here. Ontario seems relatively stable for a week now.  Hard to tell with BC because that 83 spike might have been delayed tests over the weekend, but its still bigger numbers than we are seeing.  
+
+
+...
 
 
 You probably never noticed, but you already lived through the 2009 H1N1 flu pandemic and survived. 60 million cases, 275,000 hospitalizations and 12,500 deaths in the US alone. 
@@ -96,7 +99,7 @@ Additionally, CDC estimated that 151,700-575,400 people worldwide died from (H1N
 
 
 
-Mar 22
+# Mar 22, 2020
 
 Hi everyone;
 This is a long message with some updates and then my opinion for what its worth. It might be easier to read on a computer than a phone...  I will try to phone you all today. 
