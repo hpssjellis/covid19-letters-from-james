@@ -11,7 +11,7 @@ Recently my extended family received an email from my brother James, a genetics 
 
 https://lab.research.sickkids.ca/ellis/
 
-I so appreciated the emails that I asked him if it would be OK to publish them on social media as others might want to hear what he has to say. He Said that would be fine.
+I so appreciated the emails that I asked him if it would be OK to publish them on social media as others might want to hear what he has to say. He said that would be fine.
 
 
 
