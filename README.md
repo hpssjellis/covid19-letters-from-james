@@ -9,7 +9,7 @@ Mine or othe peoples questions are in *italics* and typically start with *"Hi Ja
 
 
 
-Recently my extended family received an email from my brother James, a genetics researcher at Toronto SickKids Hospital.
+On March 17th my extended family started to receive emails from my brother James, a genetics researcher at Toronto SickKids Hospital, Ontario Canada.
 
 https://lab.research.sickkids.ca/ellis/
 
