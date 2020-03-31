@@ -3,7 +3,7 @@ Letters from my brother James about the covid 19 virus
 
 
 
-
+Mine or othe peoples questions are in *italics* and typically start with *"Hi James"*
 
 
 
@@ -154,12 +154,16 @@ Italy now has 54,000 cases in a population of 60 million or 0.1%. The canadian n
 
 Canada is relatively less infected than most countries, but I still think that by Victoria Day (end of May) the decision between the economic well-being of the 99% and the 1% most susceptible population will have to be tackled. In the meantime, scale up the supply of ventilators and intensive care facilities/personnel, and assess whether passive immunity is an effective treatment that can be rapidly deployed internationally.
 
+ # March 25th
  
+*Hi James and Family: Any ideas James how UV light helps reduce the typical flu? Just pondering why flu season is even a season. I guess people getting outside is a form of social distancing and herd immunity probably has an effect around March-April. Wondering if a metric like UV intensity x hours of sunlight plays a roll? https://www.webmd.com/cold-and-flu/news/20180212/can-uv-light-be-used-to-kill-airborne-flu-virus-#1  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6466003/ https://www.sciencedaily.com/releases/2018/02/180209100701.htm *
+
+
+James just sent this link https://www.bbc.com/future/article/20200327-can-you-kill-coronavirus-with-uv-light
+
 
  
  # March 29th, 2020
- 
-
  
 *Hey James: A person could become infected by breathing in one virus, but typically would become infected by breathing in a liquid droplet of many millions of the viruses. What is the difference between the two types of infections? Lets assume both people get mild versions of Covid-19? Would the single virus infection give the person more time to try to fight it? Or is a large amount needed before the body even starts to try to fight it?*
  
