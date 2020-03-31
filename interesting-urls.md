@@ -1,17 +1,23 @@
 Fairly self-explanatory markdown file in no particular order:
 
+# My Links:
+
+1. https://github.com/hpssjellis/covid19
+
+1. [This github](https://github.com/hpssjellis/covid19-letters-from-james)
+
+1. https://www.rocksetta.com/
+
+1. https://github.com/hpssjellis/uv-times-hours-sunlight
 
 
-
-
+# From the Web 
 
 1. https://www.ft.com/coronavirus-latest
 
 1. https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports
 
 1. https://www.dw.com/en/how-vietnam-is-winning-its-war-on-coronavirus/a-52929967
-
-1. https://github.com/hpssjellis/covid19-letters-from-james
 
 1. https://docs.google.com/document/d/1EWpWmyjzM4sNBF-7jp_1Y9a-pqiRg0wakGXy7kj11RA/preview
 
