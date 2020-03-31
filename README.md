@@ -4,6 +4,7 @@ Letters from my brother James about the covid 19 virus
 
 
 Mine or othe peoples questions are in *italics* and typically start with *"Hi James"*
+[Links I found interesting are here](interesting-urls.md)
 
 
 
