@@ -2,7 +2,7 @@ Fairly self-explanatory markdown file in no particular order:
 
 # My Links:
 
-1. My covid19 playlist of simulations by me and videos by others about #masks3all   https://www.youtube.com/playlist?list=PL57Dnr1H_egsp6jEaTTZwMgJgBoqrJzsq
+1. My covid19 playlist of simulations by me and videos by others about the twitter hashtag #masks4all   https://www.youtube.com/playlist?list=PL57Dnr1H_egsp6jEaTTZwMgJgBoqrJzsq
 
 1. https://github.com/hpssjellis/covid19
 
