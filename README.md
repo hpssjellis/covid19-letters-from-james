@@ -157,6 +157,36 @@ Canada is relatively less infected than most countries, but I still think that b
  
 
  
+ # March 29th, 2020
+ 
+ _After I sent this email:_
+ 
+_Hey James: A person could become infected by breathing in one virus, but typically would become infected by breathing in a liquid droplet of many millions of the viruses. What is the difference between the two types of infections? Lets assume both people get mild versions of Covid-19?_
+
+_Would the single virus infection give the person more time to try to fight it? Or is a large amount needed before the body even starts to try to fight it?_
+ 
+ 
+ 
+ Hi jer:
+A single virus particle is very unlikely to be infective, that's why virus makes such a huge number of particles to pass on. In the lab, some types of virus can be made to levels of a billion or more in just 1 ml. I don't think there are calculations about what threshold number of virus particles are sufficient to transfer infection to a new host. But maybe one reason health care workers get bad cases is they get exposed to really high doses by patients in intensive care and have little time to respond. So I would imagine there is a trend to a dose response curve or a delay as you suggest. But the mild cases are likely to be some sort of resistance, or avoidance of hyper immunity that actually harms the lungs. Best,  james
+
+ 
+ _My Reply_
+ _Thanks James:_
+
+_I am kind of sad we are not doing what the Czech Republic is doing. I love when scientific theories have to look at real world results. https://www.youtube.com/watch?v=jZtEX2-n2Hc _
+
+
+ 
+ 
+ 
+ # March 30, 2020
+ 
+ Hi All:
+That idea of transferring antibodies from recovered patients into those currently in intensive care has been reported, just on 5 patient cases, in China. 
+Best,  james
+ 
+ https://dgalerts.docguide.com/convalescent-plasma-possibly-helpful-treatment-5-critically-ill-patients-covid-19?nl_ref=newsletter&pk_campaign=newsletter&nl_eventid=34731&ncov_site=covid-19&nl_campaignid=3641
 
 
 
