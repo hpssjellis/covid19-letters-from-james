@@ -2,6 +2,8 @@ Fairly self-explanatory markdown file in no particular order:
 
 # My Links:
 
+1. [My covid19 playlist of simulations by me and videos by others about #masks3all ](https://www.youtube.com/playlist?list=PL57Dnr1H_egsp6jEaTTZwMgJgBoqrJzsq)  https://www.youtube.com/playlist?list=PL57Dnr1H_egsp6jEaTTZwMgJgBoqrJzsq
+
 1. https://github.com/hpssjellis/covid19
 
 1. [This github](https://github.com/hpssjellis/covid19-letters-from-james)
@@ -11,7 +13,10 @@ Fairly self-explanatory markdown file in no particular order:
 1. https://github.com/hpssjellis/uv-times-hours-sunlight
 
 
+
 # From the Web 
+
+1. https://github.com/pomber/covid19
 
 1. https://www.ft.com/coronavirus-latest
 
