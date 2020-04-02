@@ -63,6 +63,12 @@ Fairly self-explanatory markdown file in no particular order:
 1. https://www.dw.com/en/coronavirus-how-japan-keeps-covid-19-under-control/a-52907069
 
 
+1. https://thehill.com/policy/international/490649-netanyahu-says-all-israelis-must-wear-face-masks-in-public
+
+1. https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30232-2/fulltext
+
+
+
 
 
 
