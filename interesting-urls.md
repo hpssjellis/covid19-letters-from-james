@@ -69,7 +69,7 @@ Fairly self-explanatory markdown file in no particular order:
 
 1. https://amp.rappler.com/nation/256753-filipinos-luzon-required-wear-face-masks
 
-
+1. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2440799/
 
 
 
