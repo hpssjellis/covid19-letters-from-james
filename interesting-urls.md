@@ -67,7 +67,7 @@ Fairly self-explanatory markdown file in no particular order:
 
 1. https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30232-2/fulltext
 
-
+1. https://amp.rappler.com/nation/256753-filipinos-luzon-required-wear-face-masks
 
 
 
