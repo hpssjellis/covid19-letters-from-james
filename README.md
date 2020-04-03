@@ -199,7 +199,6 @@ Glad to hear you are staying at home mum and dad. I've been trying to figure out
 At SickKids they have declared that research labs are closed indefinitely. But I can't see Toronto residents staying indoors as spring weather arrives - its much easier to hunker down at home when its cold or wet. At least I got our BBQ and patio furniture set up on the balcony today, and enjoyed a beer in the sun and some grilled lamb chops for dinner. Taking the stairs up to our 10th floor of the condo is reasonable exercise along with walks in the neighbourhood when its quiet out. Good luck with the physical distancing, with teaching / learning/ working remotely, and staying entertained and healthy.  Best,  James
 
 
-*James any comments about this video by someone from https://www.fast.ai/ https://youtu.be/avBac5xNmYA I am interested in this.*
 
 
 Of course 2m is an arbitrary number, and one can just stay inside if you like. I wouldn't get too fixated on distance and masks though. I bet you take worse odds just living normal life and never paid attention.
@@ -211,5 +210,9 @@ My perspective is to limit contact as much as possible in order to contain sprea
 Anyway, hope you don't look too much like a bank robber when you go out - don't want the cops to take you down!   Best,  James
 
 
+
+# April 2nd, 2020
+
+* Thanks for the reply James but I sent you the wrong link. Here is the correct one. Interesting from a very capable person in the field of AI. https://www.youtube.com/watch?v=hVEVve-3QeM&feature=youtu.be I agree with staying inside but people eventually have to leave there house to grocery shop. I think masks could help a bit at least give us time to find other ways to fight the virus. *
 
 
