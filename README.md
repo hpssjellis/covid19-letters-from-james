@@ -213,6 +213,6 @@ Anyway, hope you don't look too much like a bank robber when you go out - don't 
 
 # April 2nd, 2020
 
-* Thanks for the reply James but I sent you the wrong link. Here is the correct one. Interesting from a very capable person in the field of AI. https://www.youtube.com/watch?v=hVEVve-3QeM&feature=youtu.be I agree with staying inside but people eventually have to leave there house to grocery shop. I think masks could help a bit at least give us time to find other ways to fight the virus. *
+*Thanks for the reply James but I sent you the wrong link. Here is the correct one. Interesting from a very capable person in the field of AI. https://www.youtube.com/watch?v=hVEVve-3QeM&feature=youtu.be I agree with staying inside but people eventually have to leave there house to grocery shop. I think masks could help a bit at least give us time to find other ways to fight the virus.*
 
 
