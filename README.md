@@ -192,4 +192,24 @@ Best,  james
  https://dgalerts.docguide.com/convalescent-plasma-possibly-helpful-treatment-5-critically-ill-patients-covid-19?nl_ref=newsletter&pk_campaign=newsletter&nl_eventid=34731&ncov_site=covid-19&nl_campaignid=3641
 
 
+# April 1st, 2020
+
+Glad to hear you are staying at home mum and dad. I've been trying to figure out what to follow up with for content on COVID. But all I can come up with is huge criticism of the americans and I don't think that is a very useful perspective to share. Its hard to believe they have gone to 200k cases in just 10 days since I last commented.
+
+At SickKids they have declared that research labs are closed indefinitely. But I can't see Toronto residents staying indoors as spring weather arrives - its much easier to hunker down at home when its cold or wet. At least I got our BBQ and patio furniture set up on the balcony today, and enjoyed a beer in the sun and some grilled lamb chops for dinner. Taking the stairs up to our 10th floor of the condo is reasonable exercise along with walks in the neighbourhood when its quiet out. Good luck with the physical distancing, with teaching / learning/ working remotely, and staying entertained and healthy.  Best,  James
+
+
+*James any comments about this video by someone from https://www.fast.ai/ https://youtu.be/avBac5xNmYA I am interested in this.*
+
+
+Of course 2m is an arbitrary number, and one can just stay inside if you like. I wouldn't get too fixated on distance and masks though. I bet you take worse odds just living normal life and never paid attention.
+
+If you don't have pre-existing lung/heart issues you might actually be better off getting it and fighting it off in order to become resistant. Then all the frantic self protection is much less relevant. We had N95 masks, gowns and gloves in the lab to work with our virus vectors, and gave them all to the hospital who absolutely require them to intubate patients for a ventilator at very close quarters. University of Toronto just sent out a newsletter saying that their research labs donated 175,000 gloves and 3000 N95s and gowns to the downtown hospitals for the same purpose. Other labs are using 3D printers to produce visors too.
+
+My perspective is to limit contact as much as possible in order to contain spread and protect other more vulnerable people like our parents and John. But I'm not losing any sleep from worry. There is some movement towards encouraging people to use home made masks now, but the aim is mostly to prevent you coughing up on other people, not the other way round. And in that circumstance you should be in isolation.
+
+Anyway, hope you don't look too much like a bank robber when you go out - don't want the cops to take you down!   Best,  James
+
+
+
 
