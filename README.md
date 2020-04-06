@@ -215,4 +215,10 @@ Anyway, hope you don't look too much like a bank robber when you go out - don't 
 
 *Thanks for the reply James but I sent you the wrong link. Here is the correct one. Interesting from a very capable person in the field of AI. https://www.youtube.com/watch?v=hVEVve-3QeM&feature=youtu.be I agree with staying inside but people eventually have to leave there house to grocery shop. I think masks could help a bit at least give us time to find other ways to fight the virus.*
 
+Reply from James:
+
+https://www.theglobeandmail.com/canada/article-sew-much-demand-suddenly-homemade-masks-are-a-booming-cottage/
+
+Here’s another article if you can read it. Says people are making masks with 3D printers. I saw a guy out walking wearing an antipollution Respro mask for cyclists from MEC, and remembered I still had one from years ago when the air quality was bad in the summers. So if it becomes required I have one of those, even if the filter is way out of date. The UK website for the brand seemed to indicate its HEPA level charcoal filtering, but they have shut the online shop and I think they must be making all their masks for the NHS now.  James
+
 
