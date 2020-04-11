@@ -28,6 +28,11 @@ Fairly self-explanatory markdown file in no particular order:
 
 # Links From the Web 
 
+
+1. https://covidtracking.com
+
+1. https://covidtracking.com/api/states/daily
+
 1. https://www.youtube.com/watch?v=rnP7v0SsVq8&feature=youtu.be&t=207
 
 1. https://youtu.be/jZtEX2-n2Hc
