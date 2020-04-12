@@ -26,12 +26,37 @@ Fairly self-explanatory markdown file in no particular order:
 
 
 
-# Links From the Web 
+
+# Data Links
 
 
 1. https://covidtracking.com
 
 1. https://covidtracking.com/api/states/daily
+
+
+1. https://covidtracking.com/api/states/daily
+
+
+
+
+1. https://apps.who.int/gho/athena/api/GHO/WHOSIS_000001.json?profile=simple
+
+1. https://www.who.int/data/gho/info/athena-api-examples#ex10
+
+
+1. https://datahub.io/core/covid-19
+
+1. https://coronavirus.m.pipedream.net/
+
+
+1. https://clinicaltrials.gov/api/gui/ref/api_urls
+
+
+
+
+# Links From the Web 
+
 
 1. https://www.youtube.com/watch?v=rnP7v0SsVq8&feature=youtu.be&t=207
 
