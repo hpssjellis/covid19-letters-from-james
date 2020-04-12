@@ -104,9 +104,15 @@ Fairly self-explanatory markdown file in no particular order:
 
 
 
+# Other
 
+https://airfuji.com/does-cold-air-kill-germs-what-about-heat/
 
+https://slate.com/technology/2013/08/sunlight-is-the-best-disinfectant-not-exactly.html
 
+https://www.mecknc.gov/HealthDepartment/Flu/Pages/FluTips.aspx
+
+https://van.physics.illinois.edu/qa/listing.php?id=702&t=killing-germs
 
 
 
