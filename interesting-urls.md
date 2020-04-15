@@ -101,6 +101,8 @@ Fairly self-explanatory markdown file in no particular order:
 
 1. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2440799/
 
+1. https://www.nationalgeographic.com/science/2020/04/coronavirus-what-you-should-know-diy-masks-and-ventilators/
+
 
 
 
