@@ -105,6 +105,9 @@ Fairly self-explanatory markdown file in no particular order:
 
 1. https://www.nature.com/articles/s41598-019-38825-y
 
+1. https://first10em.com/aerosols-droplets-and-airborne-spread/
+
+
 
 # Other
 
