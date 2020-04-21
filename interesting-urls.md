@@ -107,7 +107,7 @@ Fairly self-explanatory markdown file in no particular order:
 
 1. https://first10em.com/aerosols-droplets-and-airborne-spread/
 
-
+1. About OPV https://twiv.s3.amazonaws.com/non-specific+vaccines+against+coronavirus.pdf and the radio conversation  https://www.microbe.tv/twiv/twiv-604/
 
 # Other
 
