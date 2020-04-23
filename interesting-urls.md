@@ -121,6 +121,12 @@ https://van.physics.illinois.edu/qa/listing.php?id=702&t=killing-germs
 
 
 
+# humidity and temperature
+
+1. https://www.annualreviews.org/doi/pdf/10.1146/annurev-virology-012420-022445
+
+
+
 
 
 
