@@ -111,15 +111,15 @@ Fairly self-explanatory markdown file in no particular order:
 
 # Other
 
-https://airfuji.com/does-cold-air-kill-germs-what-about-heat/
+1. https://airfuji.com/does-cold-air-kill-germs-what-about-heat/
 
-https://slate.com/technology/2013/08/sunlight-is-the-best-disinfectant-not-exactly.html
+1. https://slate.com/technology/2013/08/sunlight-is-the-best-disinfectant-not-exactly.html
 
-https://www.mecknc.gov/HealthDepartment/Flu/Pages/FluTips.aspx
+1. https://www.mecknc.gov/HealthDepartment/Flu/Pages/FluTips.aspx
 
-https://van.physics.illinois.edu/qa/listing.php?id=702&t=killing-germs
+1. https://van.physics.illinois.edu/qa/listing.php?id=702&t=killing-germs
 
-
+1. Hand sanitizer for the nose https://www.theglobeandmail.com/canada/article-canadian-company-sanotize-research-aims-to-limit-covid-19-spread-with/
 
 # humidity and temperature
 
