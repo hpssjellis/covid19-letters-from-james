@@ -126,9 +126,9 @@ https://van.physics.illinois.edu/qa/listing.php?id=702&t=killing-germs
 1. https://www.annualreviews.org/doi/pdf/10.1146/annurev-virology-012420-022445
 
 
+# AC and room air flow
 
-
-
+1. https://wwwnc.cdc.gov/eid/article/26/7/20-0764_article
 
 
 
